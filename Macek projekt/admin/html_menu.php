@@ -1,0 +1,1 @@
+<a href="menu.php">Product List </a> <strong>/</strong> <a href="insert_prod.php"> Insert product</a

@@ -1,0 +1,2 @@
+<a href="menu.php">Product List </a> <strong>/</strong> <a href="insert_prod.php"> Insert product</a><br>
+<a href="menu_img.php">Image List </a> <strong>/</strong> <a href="upload.php"> Insert image</a><br>
